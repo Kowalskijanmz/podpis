@@ -1,1 +1,2 @@
-<img width="1200" height="400" alt="podpis_pr" src="https://github.com/user-attachments/assets/2928c015-4577-4efc-8f12-c9ac0fc25150" />
+<a href="https://www.valeoservice.pl/pl/specialistclub" target="_blank">
+<img width="1200" height="400" alt="podpis_pr" src="https://raw.githubusercontent.com/Kowalskijanmz/podpis/refs/heads/main/podpis_pr.png" />
